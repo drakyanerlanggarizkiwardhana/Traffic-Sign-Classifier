@@ -3,11 +3,6 @@
 LeNet implementation in Keras is used to build CNN. The CNN is trained on GTSRB dataset.
 This classifier pipelined with image segmentation module such as Haar cascade classifier to detect traffic signs can be used for Self driving cars. 
 
-
-### - ###
-
-![alt text](test/test_50_1.jpg)
-
 ### Dependencies(Python 2.7):
 * keras - Tensorflow backend
 * os
